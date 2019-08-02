@@ -1,2 +1,5 @@
 Anything in the file
 The blue dot is not solid
+I saved this edit-me.txt and now the blue dot is gone
+alert('I think I am getting a hang of this.')
+
